@@ -1,8 +1,8 @@
 # Unity Web Game: Purple City
 
-An indie side scroller game featured with exploration, ability-based progression, platforming, and secrets.
+An indie side scroller game featured with exploration, ability-based progression, platforming, and secrets. To check out the Unity assets, see [Unstable Prototype](https://github.com/one-busy-beaver/Unstable-Prototype).
 
-This game is available and free to play at [Purple City](https://catloaf-cafe.github.io/Unity-Web-Game/)!
+This game is available and free to play at [Purple City](https://one-busy-beaver.github.io/Unity-Web-Game/)!
 
 Demo playthrough can be found at [YouTube](https://youtu.be/aSsFjq4bAbg).
 
