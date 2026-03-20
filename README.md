@@ -12,6 +12,8 @@ Demo playthrough can be found at [YouTube](https://youtu.be/aSsFjq4bAbg).
 - Space: jump
 - Shift: dash
 - W & S: climb
+- E: interact
+- ESC: pause/resume
 
 ### Sprites Used
 
