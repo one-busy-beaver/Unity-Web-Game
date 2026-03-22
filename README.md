@@ -2,9 +2,9 @@
 
 An indie side scroller game featured with exploration, ability-based progression, platforming, and secrets. To check out the Unity assets, see [Unstable Prototype](https://github.com/one-busy-beaver/Unstable-Prototype).
 
-This game is available and free to play at [Unstable](https://one-busy-beaver.github.io/Unity-Web-Game/)!
+This game is available and free to play at [Unity Web | Unstable](https://one-busy-beaver.github.io/Unity-Web-Game/)!
 
-Demo playthrough can be found at [YouTube](https://youtu.be/aVI_Lx_w7OI).
+Demo playthrough can be found at [YouTube](https://youtu.be/fCMApaHvFXQ).
 
 ### Sprites Used
 
