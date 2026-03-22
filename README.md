@@ -6,15 +6,6 @@ This game is available and free to play at [Unstable](https://one-busy-beaver.gi
 
 Demo playthrough can be found at [YouTube](https://youtu.be/aSsFjq4bAbg).
 
-### Movements
-
-- A & D: walk
-- Space: jump
-- Shift: dash
-- W & S: climb
-- E: interact
-- ESC: pause/resume
-
 ### Sprites Used
 
 - [The Knight](https://assetstore.unity.com/packages/2d/characters/knight-sprite-sheet-free-93897)
