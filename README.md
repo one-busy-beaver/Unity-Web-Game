@@ -4,7 +4,7 @@ An indie side scroller game featured with exploration, ability-based progression
 
 This game is available and free to play at [Unity Web | Unstable](https://one-busy-beaver.github.io/Unstable-Web-Build/)!
 
-Demo playthrough can be found at [YouTube](https://youtu.be/TZly9bfA7rg).
+Demo playthrough can be found at [YouTube](https://youtu.be/x95CSl58_V8).
 
 ### Credits
 
