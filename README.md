@@ -1,6 +1,6 @@
-# Unity Web Game: Unstable
+# Indie 2D Game: Unstable
 
-An indie side scroller game featured with exploration, ability-based progression, platforming, and secrets. To check out the Unity assets, see [Unstable Prototype](https://github.com/one-busy-beaver/Unstable-Prototype).
+An indie side scroller game featured with exploration, ability-based progression, platforming, and secrets. To check out the Unity assets, see [Unstable Prototype (branch: cs370-demo)](https://github.com/one-busy-beaver/Unstable-Prototype/tree/cs370-demo).
 
 This game is available at [Unity Web | Unstable](https://one-busy-beaver.github.io/Unstable-Web-Build/)!
 
